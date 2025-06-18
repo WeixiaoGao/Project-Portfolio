@@ -41,3 +41,9 @@ We are currently releasing the core module of our code, which focuses on mesh ho
 ![buildingpcc](/pics/proj_buildingpcc.png)
 This is the implementation of the Builiding-PCC paper: [*Building-PCC: Building Point Cloud Completion Benchmarks*](https://isprs-annals.copernicus.org/articles/X-4-W5-2024/179/2024/).
 This repository contains scripts for generating Building-PCC data, links for data downloads, test codes for state-of-the-art methods, pre-trained models, and evaluation results.
+
+### 7. [SUM Parts](https://github.com/tudelft3d/SUM-Parts-Benchmarks)
+![sumparts](/pics/proj_sumparts.png)
+**SUM Parts** is the official implementation of the paper: [*SUM Parts: Benchmarking Part-Level Semantic Segmentation of Urban Meshes*](https://openaccess.thecvf.com/content/CVPR2025/html/Gao_SUM_Parts_Benchmarking_Part-Level_Semantic_Segmentation_of_Urban_Meshes_CVPR_2025_paper.html). 
+Specifically, it is an open-source benchmark dataset for semantic segmentation of large-scale urban texture meshes, supporting both object- and part-level annotation, with annotation tools and automatic segmentation approaches.
+For more information, please visit our [project website](https://tudelft3d.github.io/SUMParts/).
