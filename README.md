@@ -1,6 +1,6 @@
-# My Projects at TU Delft
+# Project-Portfolio
 
-A collection of public projects I have developed at TU Delft, showcasing advancements in 3D geoinformation and urban modeling.
+A collection of public projects I have developed at TU Delft and WUR, showcasing advancements in 3D geoinformation, urban modeling and remote sensing.
 
 ## Projects Overview
 
